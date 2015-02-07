@@ -1,0 +1,9 @@
+Steps to run Project:
+1. Open intelliJIDEA and import the entire source code.
+2. Go to Maven projects-->DataStructure-->Plugins-->tomcat7 and run tomcat7run.
+3. Open any browser and paste the URL http://localhost:8080/DataStructure/app/index.html
+4. Give the path of text file containing Strings (one word on each line)in path text box on GUI
+5. Enter the word to search in Text Box. Click on search button to submit form.
+
+
+

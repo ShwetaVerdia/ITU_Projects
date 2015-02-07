@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [01/Jan/2015:23:11:23 -0800] "GET /DataStructure/app/index.html HTTP/1.1" 200 3153 http-bio-8080-exec-1 1774
+0:0:0:0:0:0:0:1 - - [01/Jan/2015:23:11:23 -0800] "GET /DataStructure/app/assets/ngbp-0.3.2.css HTTP/1.1" 200 123874 http-bio-8080-exec-2 11
+0:0:0:0:0:0:0:1 - - [01/Jan/2015:23:11:23 -0800] "GET /DataStructure/app/vendor/angular-bootstrap/ui-bootstrap-tpls.min.js HTTP/1.1" 200 53004 http-bio-8080-exec-4 10
+0:0:0:0:0:0:0:1 - - [01/Jan/2015:23:11:24 -0800] "GET /DataStructure/app/vendor/placeholders/angular-placeholders-0.0.1-SNAPSHOT.min.js HTTP/1.1" 200 12541 http-bio-8080-exec-5 22
+0:0:0:0:0:0:0:1 - - [01/Jan/2015:23:11:24 -0800] "GET /DataStructure/app/vendor/angular/angular.js HTTP/1.1" 200 947758 http-bio-8080-exec-3 82
+0:0:0:0:0:0:0:1 - - [01/Jan/2015:23:11:24 -0800] "GET /DataStructure/app/vendor/angular-ui-router/release/angular-ui-router.js HTTP/1.1" 200 156740 http-bio-8080-exec-6 37
+0:0:0:0:0:0:0:1 - - [01/Jan/2015:23:11:24 -0800] "GET /DataStructure/app/src/app/about/about.js HTTP/1.1" 200 619 http-bio-8080-exec-7 8
+0:0:0:0:0:0:0:1 - - [01/Jan/2015:23:11:24 -0800] "GET /DataStructure/app/src/app/app.js HTTP/1.1" 200 608 http-bio-8080-exec-8 6
+0:0:0:0:0:0:0:1 - - [01/Jan/2015:23:11:24 -0800] "GET /DataStructure/app/src/app/home/home.js HTTP/1.1" 200 1553 http-bio-8080-exec-8 7
+0:0:0:0:0:0:0:1 - - [01/Jan/2015:23:11:24 -0800] "GET /DataStructure/app/src/common/plusOne/plusOne.js HTTP/1.1" 200 282 http-bio-8080-exec-8 5
+0:0:0:0:0:0:0:1 - - [01/Jan/2015:23:11:24 -0800] "GET /DataStructure/app/templates-common.js HTTP/1.1" 200 43 http-bio-8080-exec-8 3
+0:0:0:0:0:0:0:1 - - [01/Jan/2015:23:11:24 -0800] "GET /DataStructure/app/templates-app.js HTTP/1.1" 200 14481 http-bio-8080-exec-8 5
+0:0:0:0:0:0:0:1 - - [01/Jan/2015:23:13:38 -0800] "GET /DataStructure/?fileName=C:\Users\shweta14\Desktop\DataStructureProject\Data\dictionary.txt&wordToSearch=oasis HTTP/1.1" 200 268 http-bio-8080-exec-6 387
